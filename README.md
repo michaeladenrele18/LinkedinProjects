@@ -10,4 +10,4 @@ Projects:
 2. [Derivative Calculator](./derivative-calculator)
    A tool for calculating the derivatives of mathematical functions. This project showcases my skills in mathematical computation and algorithm development using Python. I initially developed this tool to solve a
    challenging calculus problem during my freshman year, which allowed me to better understand the concepts of differentiation and helped streamline complex calculations in my coursework.
-3. 
+3. [Hotel Management System](
