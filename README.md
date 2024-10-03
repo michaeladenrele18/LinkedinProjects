@@ -10,4 +10,7 @@ Projects:
 2. [Derivative Calculator](./derivative-calculator)
    A tool for calculating the derivatives of mathematical functions. This project showcases my skills in mathematical computation and algorithm development using Python. I initially developed this tool to solve a
    challenging calculus problem during my freshman year, which allowed me to better understand the concepts of differentiation and helped streamline complex calculations in my coursework.
-3. [Hotel Management System](
+3. [Hotel Management System](./hotel-management-system)
+   A Python-based system for managing hotel reservations, room service orders, and billing. This project highlights my proficiency in object-oriented programming and managing complex data structures. I developed this
+   system as part of a hackathon, where I worked in a group of four. Each team member was responsible for a different part of the system—reservations, room service, billing, and system integration—allowing us to
+   collaboratively build a comprehensive solution.
