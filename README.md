@@ -5,7 +5,6 @@ Each project has its own folder with detailed information about the project, inc
 Projects:
 
 1. [Finance Tracker](./finance-tracker)
-A personal finance tracking system that allows users to monitor income and expenses, set budgets, and view financial summaries.
-This project demonstrates my ability to build data-driven applications and handle file I/O in Python.
-
-2
+   A personal finance tracking system that allows users to monitor income and expenses, set budgets, and view financial summaries.
+   This project demonstrates my ability to build data-driven applications and handle file I/O in Python.
+2. 
