@@ -7,4 +7,7 @@ Projects:
 1. [Finance Tracker](./finance-tracker)
    A personal finance tracking system that allows users to monitor income and expenses, set budgets, and view financial summaries.
    This project demonstrates my ability to build data-driven applications and handle file I/O in Python.
-2. 
+2. [Derivative Calculator](./derivative-calculator)
+   A tool for calculating the derivatives of mathematical functions. This project showcases my skills in mathematical computation and algorithm development using Python. I initially developed this tool to solve a
+   challenging calculus problem during my freshman year, which allowed me to better understand the concepts of differentiation and helped streamline complex calculations in my coursework.
+3. 
